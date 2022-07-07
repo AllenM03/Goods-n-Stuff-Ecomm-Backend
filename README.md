@@ -24,6 +24,6 @@ the standard packages for the application. Next, type `mysql -u root -p` in the 
 Contributors: Allen McBroom Bey
 
 ## Questions
-[Thank you for your interest!Feel free to email me.](mailto:almcbroombey@email.com)
+Thank you for your interest! Feel free to [email me.](mailto:almcbroombey@email.com)
 
 [Review my other projects on GitHub.](https://www.github.com/AllenM03)
