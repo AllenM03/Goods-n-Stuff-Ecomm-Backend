@@ -9,7 +9,7 @@ An E-commerce application that showcases utilization of backend to provide prope
   - [Usage](#Usage)
   - [Contributions](#Contributions)
   - [Questions](#Questions)
-  - [GitHub Info](#GitHub) 
+  - [GitHub Info](#GitHub Info) 
   
 ## Installation
 Run npm I and install all dependencies in package.json such as Node, Express, Sequelize, Dotenv, and Mysql2.
